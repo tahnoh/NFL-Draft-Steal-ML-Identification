@@ -1,0 +1,5 @@
+Model,MAE,Brier,PR-AUC
+Random Forest,13.21,0.1469,0.3085
+MLP,13.01,0.1123,0.2487
+Gated Model,13.11,0.2369,0.4167
+NoGate Model,13.06,0.2365,0.4184
